@@ -7,5 +7,9 @@ namespace WpfApp5
 {
     class Test2
     {
+        public void Test222()
+        {
+
+        }
     }
 }
